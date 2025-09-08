@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../01-getting-started"
+		},
+		{
+			"path": "../02-folder-structure"
+		},
+		{
+			"path": "../03-user-management"
+		},
+		{
+			"path": "../04-file-management"
+		},
+		{
+			"path": "../05-vi-shortcuts"
+		},
+		{
+			"path": "../06-file-permissions"
+		},
+		{
+			"path": "../07-process-management"
+		},
+		{
+			"path": "../08-monitoring"
+		},
+		{
+			"path": "../09-networking"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "01-getting-started"
+	}
+}
