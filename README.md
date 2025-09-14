@@ -1,4 +1,4 @@
-# Ultimate Linux Guide
+# Linux Guide
 
 This repository is created to serve as a revision notes for the 
 
